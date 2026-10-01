@@ -43,7 +43,7 @@ https://t.me/ehmunnax/21
 - aShell
 - Wi-Fi connection for the wireless-debugging setup
 
-## First command 
+## Run command step by step 
 ```
 /system/bin/device_config set_sync_disabled_for_tests persistent
 ```
