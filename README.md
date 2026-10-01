@@ -1,15 +1,12 @@
 ![logo](file_00000000c9e482118aa7f63af58e9cbb.png)
-Shizuku & aShell Setup Guide
 
+
+Shizuku & aShell Setup Guide
 This guide explains how to install and set up Shizuku and aShell on Android.
 
----
-
 # Shizuku Install
-
-📥 Download Shizuku
-
-"Download Shizuku" (https://t.me/ehmunnax/23)
+Download Shizuku
+https://t.me/ehmunnax/23
 
 ⚙️ Setup Steps
 
@@ -23,12 +20,11 @@ This guide explains how to install and set up Shizuku and aShell on Android.
 6. Start the Shizuku service.
 7. Check that Shizuku is running successfully.
 
----
 ## aShell Install
 
-📥 Download aShell
+Download aShell 
 
-"Download aShell" (https://t.me/ehmunnax/21)
+https://t.me/ehmunnax/21
 
 ⚙️ Setup Steps
 
@@ -37,7 +33,6 @@ This guide explains how to install and set up Shizuku and aShell on Android.
 3. Start the aShell service/session.
 4. You can now use aShell with the required permissions.
 
----
 
 📌 Requirements
 
@@ -47,11 +42,3 @@ This guide explains how to install and set up Shizuku and aShell on Android.
 - Shizuku
 - aShell
 - Wi-Fi connection for the wireless-debugging setup
-
----
-
-⚠️ Note
-
-The names and locations of some Developer Options may vary depending on your Android device and manufacturer.
-
-Make sure Wireless Debugging and the required permissions are enabled before starting the Shizuku service.
