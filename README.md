@@ -34,6 +34,11 @@ https://t.me/ehmunnax/21
 4. You can now use aShell with the required permissions.
 
 
+
+## Download txt file 
+
+https://t.me/ehmunnax/24
+
 📌 Requirements
 
 - Android device
